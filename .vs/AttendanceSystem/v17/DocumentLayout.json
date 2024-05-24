@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Personal\\AttendanceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\attendanceactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\attendanceactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\attendanceactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\attendanceactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80390A-F4B2-4E45-AF09-EA22C01DE4FD}|BusinessLogics\\BusinessLogics.csproj|e:\\personal\\attendancesystem\\businesslogics\\services\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80390A-F4B2-4E45-AF09-EA22C01DE4FD}|BusinessLogics\\BusinessLogics.csproj|solutionrelative:businesslogics\\services\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|e:\\personal\\attendancesystem\\attendancesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E899742-5B2B-4D2D-B805-DD7733F6D8E3}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80390A-F4B2-4E45-AF09-EA22C01DE4FD}|BusinessLogics\\BusinessLogics.csproj|e:\\personal\\attendancesystem\\businesslogics\\services\\iattendancedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80390A-F4B2-4E45-AF09-EA22C01DE4FD}|BusinessLogics\\BusinessLogics.csproj|solutionrelative:businesslogics\\services\\iattendancedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9CF34-3945-4D2C-88A2-48B23CF61B54}|DatabaseAccessLayer\\DatabaseAccessLayer.csproj|e:\\personal\\attendancesystem\\databaseaccesslayer\\models\\attendancedetaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9CF34-3945-4D2C-88A2-48B23CF61B54}|DatabaseAccessLayer\\DatabaseAccessLayer.csproj|solutionrelative:databaseaccesslayer\\models\\attendancedetaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9CF34-3945-4D2C-88A2-48B23CF61B54}|DatabaseAccessLayer\\DatabaseAccessLayer.csproj|e:\\personal\\attendancesystem\\databaseaccesslayer\\models\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9CF34-3945-4D2C-88A2-48B23CF61B54}|DatabaseAccessLayer\\DatabaseAccessLayer.csproj|solutionrelative:databaseaccesslayer\\models\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9CF34-3945-4D2C-88A2-48B23CF61B54}|DatabaseAccessLayer\\DatabaseAccessLayer.csproj|e:\\personal\\attendancesystem\\databaseaccesslayer\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9CF34-3945-4D2C-88A2-48B23CF61B54}|DatabaseAccessLayer\\DatabaseAccessLayer.csproj|solutionrelative:databaseaccesslayer\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Employee.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Employee.cs",
+              "RelativeToolTip": "AttendanceSystem\\Employee.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAADwv6UAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:13:14.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Employee.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Employee.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:13:11.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceActivity.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\AttendanceActivity.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\AttendanceActivity.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\AttendanceActivity.cs",
+              "RelativeToolTip": "AttendanceSystem\\AttendanceActivity.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwDUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:12:24.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceActivity.cs [Design]",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\AttendanceActivity.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\AttendanceActivity.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\AttendanceActivity.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem\\AttendanceActivity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:12:21.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Report.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Report.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Report.cs",
+              "RelativeToolTip": "AttendanceSystem\\Report.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwCMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:09:03.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Report.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Report.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Report.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem\\Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:08:52.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Repo.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Repo.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Repo.cs",
+              "RelativeToolTip": "AttendanceSystem\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:08:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\AdminLogin.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\AdminLogin.cs",
+              "RelativeToolTip": "AttendanceSystem\\AdminLogin.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwCsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:05:05.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAttendanceDetail.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\BusinessLogics\\Services\\IAttendanceDetail.cs",
+              "RelativeDocumentMoniker": "BusinessLogics\\Services\\IAttendanceDetail.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\BusinessLogics\\Services\\IAttendanceDetail.cs",
+              "RelativeToolTip": "BusinessLogics\\Services\\IAttendanceDetail.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:56:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\BusinessLogics\\Services\\IUsers.cs",
+              "RelativeDocumentMoniker": "BusinessLogics\\Services\\IUsers.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\BusinessLogics\\Services\\IUsers.cs",
+              "RelativeToolTip": "BusinessLogics\\Services\\IUsers.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:54:30.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttendanceDetailDB.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\DatabaseAccessLayer\\Models\\AttendanceDetailDB.cs",
+              "RelativeDocumentMoniker": "DatabaseAccessLayer\\Models\\AttendanceDetailDB.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\DatabaseAccessLayer\\Models\\AttendanceDetailDB.cs",
+              "RelativeToolTip": "DatabaseAccessLayer\\Models\\AttendanceDetailDB.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:52:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersDB.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\DatabaseAccessLayer\\Models\\UsersDB.cs",
+              "RelativeDocumentMoniker": "DatabaseAccessLayer\\Models\\UsersDB.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\DatabaseAccessLayer\\Models\\UsersDB.cs",
+              "RelativeToolTip": "DatabaseAccessLayer\\Models\\UsersDB.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:35:46.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Program.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\AttendanceSystem\\Program.cs",
+              "RelativeToolTip": "AttendanceSystem\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:34:55.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "E:\\Personal\\AttendanceSystem\\DatabaseAccessLayer\\Connection.cs",
+              "RelativeDocumentMoniker": "DatabaseAccessLayer\\Connection.cs",
+              "ToolTip": "E:\\Personal\\AttendanceSystem\\DatabaseAccessLayer\\Connection.cs",
+              "RelativeToolTip": "DatabaseAccessLayer\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:35:17.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
